@@ -1,0 +1,120 @@
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\proje.exe
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\proje.deps.json
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\proje.runtimeconfig.json
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\proje.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\proje.pdb
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.csproj.GenerateResource.cache
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.AssemblyInfoInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.AssemblyInfo.cs
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.csproj.CoreCompileInputs.cache
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\refint\proje.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.pdb
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.genruntimeconfig.cache
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\ref\proje.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.GirisForm.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.KayitForm.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.MainForm.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.UrunForm.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.YemekForm.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.Marka.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\proje.exe
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\proje.deps.json
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\proje.runtimeconfig.json
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\proje.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\proje.pdb
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.GirisForm.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.KayitForm.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.MainForm.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.Marka.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.UrunForm.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.YemekForm.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.csproj.GenerateResource.cache
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.AssemblyInfoInputs.cache
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.AssemblyInfo.cs
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.csproj.CoreCompileInputs.cache
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\refint\proje.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.pdb
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.genruntimeconfig.cache
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\ref\proje.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.csproj.AssemblyReference.cache
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.EkleForm.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.UEkleForm.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.csproj.Up2Date
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.SatinAl.resources
+C:\Users\mertk\OneDrive\Masaüstü\proje\proje\obj\Debug\net8.0-windows\proje.Admin.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\proje.exe
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\proje.deps.json
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\proje.runtimeconfig.json
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\proje.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\proje.pdb
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.csproj.AssemblyReference.cache
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.Admin.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.EkleForm.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.GirisForm.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.KayitForm.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.MainForm.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.Marka.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.SatinAl.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.UEkleForm.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.UrunForm.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.YemekForm.resources
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.csproj.GenerateResource.cache
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.AssemblyInfoInputs.cache
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.AssemblyInfo.cs
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.csproj.CoreCompileInputs.cache
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.csproj.CopyComplete
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\refint\proje.dll
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.pdb
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\proje.genruntimeconfig.cache
+C:\Users\Mert Soygaz\Desktop\proje\proje\obj\Debug\net8.0-windows\ref\proje.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.csproj.AssemblyReference.cache
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.Admin.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.EkleForm.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.SatinAl.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.UEkleForm.resources
+C:\Users\omerf\OneDrive\Masaüstü\Üniversite\Görsel Programlama\proje\proje\obj\Debug\net8.0-windows\proje.csproj.Up2Date
